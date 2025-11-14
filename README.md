@@ -5,13 +5,8 @@ Hello, I'm Kurtis Bichard
 
 I'm currently pursuing a Master's in Data Science at the University of West Florida with a focus on business decision-making. I’m passionate about building data-driven solutions that make an impact.
 
-## 🔧 Tools & Skills
+Tools & Skills
 - **Languages:** Python, R, SQL
 - **Libraries:** pandas, NumPy, matplotlib, scikit-learn, ggplot2, dplyr
 - **Tools:** Git, GitHub, RStudio, Jupyter Notebook
 - **Specialties:** Data wrangling, machine learning, dashboards, statistics
-
-## 📁 Featured Projects
-
-
-## 📫 Let's Connect
