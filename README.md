@@ -12,11 +12,11 @@ Tools & Skills
 
 **Industry Analytics (Tableau Dashboard)**
 Interactive dashboard analyzing internal control failures, company effectiveness, and earnings trends across U.S. market exchanges.  
-👉 **View Dashboard:** https://public.tableau.com/views/IndustryAnalytics_17631697369040/IndustryAnalytics
+**View Dashboard:** https://public.tableau.com/views/IndustryAnalytics_17631697369040/IndustryAnalytics
 
 **Financial Aid SQL Analysis**
 SQL project analyzing real financial aid department data, performing joins, aggregations, and scenario-based queries.  
-👉 **Repo:** https://github.com/KBichard/financial-aid-sql-analysis
+**Repo:** https://github.com/KBichard/financial-aid-sql-analysis
 
 ---
 
